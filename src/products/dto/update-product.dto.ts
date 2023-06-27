@@ -1,4 +1,4 @@
-export class CreateProductDto {
+export class UpdateProductDto {
     readonly title: string
     readonly price: number
 }
